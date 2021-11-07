@@ -1,3 +1,9 @@
 # servo
 
-![servo conexion](https://user-images.githubusercontent.com/93759057/140579437-3c6563da-6fab-477a-9431-75e07a003d6c.PNG)
+Circuit:
+![image](https://user-images.githubusercontent.com/93759057/140642379-53db70a8-5e27-4bac-ad0a-011f5b343e69.png)
+
+
+Module:
+![image](https://user-images.githubusercontent.com/93759057/140642398-681d3919-1322-4637-b670-8c5338543145.png)
+
